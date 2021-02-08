@@ -5,4 +5,4 @@ filename=file_$date.txt
 mkdir $HOME/homework
 
 touch $HOME/homework/$filename
-echo "Sasha was here" > $HOME/homework/$filename
+echo "Sasha was here and Maks was here" > $HOME/homework/$filename
